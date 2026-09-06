@@ -1,3 +1,2 @@
-secret.txt
-*.log
-temp/
+.env
+s/
