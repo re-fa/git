@@ -19,5 +19,14 @@ As this repository grows, it will feature projects focusing on:
 ## 📂 How to Explore
 Once projects are added, each will be contained in its own dedicated folder. You will be able to clone the repository and run any `index.html` file directly in your browser or via a local development server.
 
+## 🌏 Link In GitHub : 
+https://github.com/re-fa/projects-js
+
+## ⬇️ Download :
+```bash
+git clone https://github.com/re-fa/projects-js
+cd projects-js
+```
+
 ---
 *🚀 "Every expert was once a beginner." Stay tuned as I build and populate this repository project by project!*
