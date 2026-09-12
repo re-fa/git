@@ -77,6 +77,7 @@ addTask.onclick = function () {
       container.removeChild(createDiv);
       countTask--;
       otherTask--;
+      checkedTask--;
       countT();
     };
   }
